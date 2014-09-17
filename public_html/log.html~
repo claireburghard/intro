@@ -1,0 +1,13 @@
+<html>
+<head><title>Claire's Log</title></head>
+<body>
+<h1>Ask Claire</h1>
+<form action="file" method="POST">
+name
+<input type="text" name="name" value="what's your name?">\n
+message
+<input type="text" name="message" value="ask Claire something!">\n
+<input type="submit" name="submit" value="submit">\n
+</body>
+</html>
+

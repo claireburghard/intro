@@ -1,0 +1,30 @@
+Python 2.7.3 (v2.7.3:70274d53c1dd, Apr  9 2012, 20:52:43) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "copyright", "credits" or "license()" for more information.
+>>> WARNING: The version of Tcl/Tk (8.5.7) in use may be unstable.
+Visit http://www.python.org/download/mac/tcltk/ for current information.
+TF=212
+>>> TC=(TF-32)*5/9
+>>> TC==100
+True
+>>> TC=20
+>>> TF=((9/5)*TC) + 32
+>>> TF==68
+False
+>>> TF=(9/5)*(TC+32)
+>>> TF==68
+False
+>>> TC=20
+>>> TF=((TC*9)/5) + 32
+>>> TF==68
+True
+>>> L1=3
+>>> L2=4
+>>> a=3
+>>> b=4
+>>> c=5
+>>> c*c==(a*a) + (b*b)
+True
+>>> ((c*c)==(a*a) + (b*b)) or ((a*a)==(b*b) + (c*c)) or ((b*b)==(a*a) + (c*c))
+True
+>>> 

@@ -1,0 +1,48 @@
+<html>
+<head><title>Dada Artwork</title></head>
+<body>
+<center><h1>Popular Dada Artwork</h1></center>
+<center><b>Here are some examples of dada artwork from some of the more famous artists of the movement.</b></center>
+<br>
+<br>
+<b>Marcel Duchamp </b>
+<br>
+<i> Young Girl and Man in Spring</i>
+<br>
+<img src="http://www.marcelduchamp.net/images/Young_Girl_and_Man_in_Spring.jpg" height="300">
+<br>
+<br>
+<i> L.H.O.O.Q </i>
+<br>
+<img src="http://www.marcelduchamp.net/images/L.H.O.O.Q.jpg" height="300">
+<br>
+<br>
+<i> Self Portrait in Profile </i>
+<br>
+<img src="http://www.marcelduchamp.net/images/Self-Portrait_in_Profile.jpg" height="300">
+<br>
+<br>
+<i> Fountain </i>
+<br>
+<img src="http://www.marcelduchamp.net/images/Fountain.jpg" height="300">
+<br>
+<br>
+<br>
+<b> Man Ray </b>
+<br>
+<i> Ingre's Violin </i>
+<br>
+<img src="http://uploads6.wikipaintings.org/images/man-ray/ingre-s-violin-1924.jpg" height="300">
+<br>
+<br>
+<i> A Night at Saint Jean-de- Luz </i>
+<br>
+<img src="http://upload.wikimedia.org/wikipedia/en/thumb/f/f8/ManRayANightAtSaintJean.jpg/220px-ManRayANightAtSaintJean.jpg" height="300">
+<br>
+<br>
+<i> Departure of Summer </i>
+<br>
+<img src="http://uploads6.wikipaintings.org/images/man-ray/departure-of-summer.jpg" height="300">
+<br>
+</body>
+</html>

@@ -1,0 +1,5 @@
+def trianglearea ( leg1, leg2 ) :
+	area = (leg1 * leg2) / 2
+	print area
+
+

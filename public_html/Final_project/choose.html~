@@ -1,0 +1,28 @@
+<html>
+<head><title>Choose your poem topic</title><head>
+<body>
+<center>
+<h1>Begin your poem!</h1>
+<h2>What would you like to write about?</h2>
+<form action="python2.py" method="POST">
+<input type="submit" name="love" value="LOVE">
+<br>
+<br>
+<input type="submit" name="pain" value="PAIN">
+<br>
+<br>
+<input type="submit" name="life" value="LIFE">
+<br>
+<br>
+<input type="submit" name="death" value="DEATH">
+<br>
+<br>
+<input type="submit" name="experiences" value="EXPERIENCES">
+<br>
+<br>
+<input type="submit" name="people" value="PEOPLE">
+<br>
+<br>
+</center>
+</body>
+</html>
